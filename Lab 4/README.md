@@ -1,4 +1,7 @@
 ## Scenario 16 — Hangman Challenge
+**Tool used:** ChatGPT
+**Full chat history:** <https://chatgpt.com/share/6abcbe4b-f358-83e8-b4ca-906867ac224e>
+### Forked Repo Link: <https://github.com/syrax-codes/hangman-python-game.git>
 
 A multi-round terminal word-guessing game with categories, hints, scoring, and streaks.
 
@@ -101,10 +104,6 @@ Submission is only the following three things:
 ---
 
 ## Lab 4 – Vibe Coding Changes
-
-**Tool used:** ChatGPT
-**Full chat history:** <https://chatgpt.com/share/6abcbe4b-f358-83e8-b4ca-906867ac224e>
-### Forked Repo Link: <https://github.com/syrax-codes/hangman-python-game.git>
 
 All changes are in `game.py`. `main.py`, `words.py` and `stats.py` are unchanged (`stats.py` is now used). State is kept in memory only: no files, databases or new dependencies.
 
