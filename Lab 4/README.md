@@ -3,7 +3,7 @@
 **Full chat history:** <https://chatgpt.com/share/6abcbe4b-f358-83e8-b4ca-906867ac224e>
 ### Forked Repo Link: <https://github.com/syrax-codes/hangman-python-game.git>
 
-A multi-round terminal word-guessing game with categories, hints, scoring, and streaks.
+- A multi-round terminal word-guessing game with categories, hints, scoring, and streaks.
 
 ## Provided files
 
